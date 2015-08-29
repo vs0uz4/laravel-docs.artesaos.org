@@ -20,7 +20,7 @@
 	 */
 	'repositories' => [
 		'master' => [
-			'url' => 'https://github.com/artesaos/laravel-docs.git',
+			'url' => 'https://github.com/vs0uz4/laravel-docs.git',
 			'branch' => 'master',
 			'view-path' => 'pt_BR',
 			'title' => 'Master',
@@ -36,7 +36,7 @@
 		],
 
 		'5.1' => [
-			'url' => 'https://github.com/artesaos/laravel-docs.git',
+			'url' => 'https://github.com/vs0uz4/laravel-docs.git',
 			'branch' => 'master',
 			'view-path' => 'pt_BR',
 			'title' => '5.1',
